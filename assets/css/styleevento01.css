@@ -1,0 +1,74 @@
+.oscuro {
+  background: #000f08;
+  color:#ffffff;
+}
+
+.oscuro a {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+body {
+  color: #000f08;
+  margin-top: 0px;
+  font-family: 'Open Sans', sans-sans-serif;
+}
+
+h2 {
+  text-align: left;
+}
+
+div {
+  line-height: normal;
+}
+
+.post1 {
+  width: 100%;
+}
+
+nav {
+  text-align: left;
+  padding: 0.5rem 4rem;
+  width: 100vw;
+}
+
+nav ul li {
+  display: inline-block;
+  margin: 0 1em;
+  vertical-align: middle;
+}
+
+.icono {
+  width: 2rem;
+}
+
+.icono svg {
+  fill: #ffffff;
+}
+
+p {
+  display: block;
+  text-align: left;
+  white-space: normal;
+}
+
+footer {
+  align-content: center;
+  text-align: center;
+  padding: 2em
+}
+
+.container {
+  align-content: center;
+  width: 50%;
+  margin: 2.5% 20% 5% 25%;
+}
+
+.footertext {
+  text-align: center;
+}
+
+.icon {
+  margin: 0.2%;
+  display: inline-block;
+}
